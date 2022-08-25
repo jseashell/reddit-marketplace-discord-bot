@@ -10,6 +10,7 @@ A discord bot that provides on-demand results for user-defined keywords found on
 - [Configure](#configure)
 - [Run the App](#run-the-app)
 - [Server Commands](#server-commands)
+- [Further Help](#further-help)
 - [License](#license)
 
 </details>
@@ -52,6 +53,10 @@ npm start
 Command | Description | 
 ---  | ---
 `!shop -r <subreddit>`| Shops a specific /r/ for the subscribed keywords in `deals.json` |  
+
+## Further Help
+
+- [Discord Developer](https://discord.com/developers/docs/intro)
 
 ## License
 
