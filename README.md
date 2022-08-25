@@ -1,6 +1,6 @@
 # Reddit Marketplace Discord Bot
 
-A discord bot that monitors user-defined keywords on marketplace subreddits
+A discord bot that provides on-demand results for user-defined keywords found on marketplace subreddits
 
 ## Table of Contents
 
@@ -48,9 +48,7 @@ npm start
 
 Command | Description | 
 ---  | ---
-`!shop -r <subreddit>`| Shops a specific /r/ for the subscribed keywords in `deals.json` | 
-
- 
+`!shop -r <subreddit>`| Shops a specific /r/ for the subscribed keywords in `deals.json` |  
 
 ## License
 
