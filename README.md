@@ -2,7 +2,8 @@
 
 A discord bot that provides on-demand results for user-defined keywords found on marketplace subreddits
 
-## Table of Contents
+<details>
+<summary>Table of Contents</summary>
 
 - [Install](#install)
 - [Link Reddit Account](#link-reddit-account)
@@ -10,6 +11,8 @@ A discord bot that provides on-demand results for user-defined keywords found on
 - [Run the App](#run-the-app)
 - [Server Commands](#server-commands)
 - [License](#license)
+
+</details>
 
 ## Install
 
